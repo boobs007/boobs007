@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boobs007
+- 👋 Hi, I’m Gathuita.
 - 👀 I’m interested in Web Development, Blockchain Technologies....endless haha
 - 🌱 I’m currently learning JS,frontend libs, 
 - 💞️ I’m looking to collaborate on ...
